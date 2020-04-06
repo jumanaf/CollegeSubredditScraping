@@ -1,4 +1,4 @@
-# CollegeSubredditScraping
+# CollegeSubreddit--Sentiment Analysis
 
 This project aims to follow a simple BeautifulSoup tutorial to analyze overall sentiments in different college subreddits. Generally, different colleges have different overall cultures, and I wanted to see which colleges might have a more positive subreddit community, and which might be more negative.
 
